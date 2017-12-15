@@ -1,0 +1,6 @@
+Source: fire
+Target: sense hatred emotion passion enthusiasm sentiment hope interest feeling resentment optimism hostility excitement anger
+Target: coup violence fight resistance clash rebellion battle drive fighting riot revolt war confrontation volcano row revolution struggle
+Target: alien immigrant
+Target: prisoner hostage inmate
+Target: patrol militia squad warplane peacekeeper

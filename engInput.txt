@@ -1,0 +1,41 @@
+----------------------------------------
+- hold_back truth:
+----------------------------------------
+- stir excitement:
+stir excitement 2
+stir rage 1
+stir anger 1
+----------------------------------------
+- impose decision:
+impose will 50
+impose order 43
+impose decision 7
+impose judgement 3
+impose opinion 2
+impose judgment 1
+impose conclusion 1
+adopt recommendation 9
+adopt decision 6
+adopt order 2
+adopt opinion 2
+adopt will 1
+adopt judgment 1
+adopt judgement 1
+approve recommendation 13
+approve decision 10
+approve order 6
+approve conclusion 2
+approve judgment 1
+implement recommendation 65
+implement decision 47
+implement will 6
+implement order 5
+implement judgment 2
+implement opinion 1
+impose will 50
+impose order 43
+impose decision 7
+impose judgement 3
+impose opinion 2
+impose judgment 1
+impose conclusion 1

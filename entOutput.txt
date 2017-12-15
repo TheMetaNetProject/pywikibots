@@ -1,0 +1,874 @@
+xxxx
+'''AutoSchema:Hold_back'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Truth'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:TRUTH ES HOLD_BACK'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Hold_back
+|Target schema=AutoSchema:Truth
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Stir'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Excitement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:EXCITEMENT ES STIR'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Stir
+|Target schema=AutoSchema:Excitement
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Stir'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Excitement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:EXCITEMENT ES STIR'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Stir
+|Target schema=AutoSchema:Excitement
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Stir'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Rage'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:RAGE ES STIR'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Stir
+|Target schema=AutoSchema:Rage
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Stir'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Anger'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ANGER ES STIR'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Stir
+|Target schema=AutoSchema:Anger
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Decision'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:DECISION ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Decision
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Will'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:WILL ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Will
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Order'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ORDER ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Order
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Decision'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:DECISION ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Decision
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Judgement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:JUDGEMENT ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Judgement
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Opinion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:OPINION ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Opinion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Judgment'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:JUDGMENT ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Judgment
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Conclusion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:CONCLUSION ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Conclusion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Adopt'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Recommendation'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:RECOMMENDATION ES ADOPT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Adopt
+|Target schema=AutoSchema:Recommendation
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Adopt'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Decision'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:DECISION ES ADOPT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Adopt
+|Target schema=AutoSchema:Decision
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Adopt'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Order'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ORDER ES ADOPT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Adopt
+|Target schema=AutoSchema:Order
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Adopt'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Opinion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:OPINION ES ADOPT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Adopt
+|Target schema=AutoSchema:Opinion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Adopt'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Will'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:WILL ES ADOPT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Adopt
+|Target schema=AutoSchema:Will
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Adopt'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Judgment'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:JUDGMENT ES ADOPT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Adopt
+|Target schema=AutoSchema:Judgment
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Adopt'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Judgement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:JUDGEMENT ES ADOPT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Adopt
+|Target schema=AutoSchema:Judgement
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Approve'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Recommendation'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:RECOMMENDATION ES APPROVE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Approve
+|Target schema=AutoSchema:Recommendation
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Approve'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Decision'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:DECISION ES APPROVE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Approve
+|Target schema=AutoSchema:Decision
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Approve'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Order'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ORDER ES APPROVE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Approve
+|Target schema=AutoSchema:Order
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Approve'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Conclusion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:CONCLUSION ES APPROVE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Approve
+|Target schema=AutoSchema:Conclusion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Approve'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Judgment'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:JUDGMENT ES APPROVE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Approve
+|Target schema=AutoSchema:Judgment
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Implement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Recommendation'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:RECOMMENDATION ES IMPLEMENT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Implement
+|Target schema=AutoSchema:Recommendation
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Implement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Decision'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:DECISION ES IMPLEMENT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Implement
+|Target schema=AutoSchema:Decision
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Implement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Will'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:WILL ES IMPLEMENT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Implement
+|Target schema=AutoSchema:Will
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Implement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Order'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ORDER ES IMPLEMENT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Implement
+|Target schema=AutoSchema:Order
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Implement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Judgment'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:JUDGMENT ES IMPLEMENT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Implement
+|Target schema=AutoSchema:Judgment
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Implement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Opinion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:OPINION ES IMPLEMENT'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Implement
+|Target schema=AutoSchema:Opinion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Will'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:WILL ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Will
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Order'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ORDER ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Order
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Decision'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:DECISION ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Decision
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Judgement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:JUDGEMENT ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Judgement
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Opinion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:OPINION ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Opinion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Judgment'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:JUDGMENT ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Judgment
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Impose'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Conclusion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:CONCLUSION ES IMPOSE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Impose
+|Target schema=AutoSchema:Conclusion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy

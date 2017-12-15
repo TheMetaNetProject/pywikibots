@@ -1,0 +1,663 @@
+xxxx
+'''AutoSchema:Fire'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Sense'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Hatred'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Emotion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Passion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Enthusiasm'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Sentiment'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Hope'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Interest'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Feeling'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Resentment'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Optimism'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Hostility'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Excitement'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Anger'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Coup'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Violence'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Fight'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Resistance'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Clash'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Rebellion'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Battle'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Drive'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Fighting'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Riot'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Revolt'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:War'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Confrontation'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Volcano'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Row'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Revolution'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Struggle'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Alien'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Immigrant'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Prisoner'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Hostage'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Inmate'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Patrol'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Militia'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Squad'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Warplane'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoSchema:Peacekeeper'''
+{{AutoSchema
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:SENSE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Sense
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:HATRED IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Hatred
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:EMOTION IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Emotion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:PASSION IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Passion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ENTHUSIASM IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Enthusiasm
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:SENTIMENT IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Sentiment
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:HOPE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Hope
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:INTEREST IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Interest
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:FEELING IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Feeling
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:RESENTMENT IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Resentment
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:OPTIMISM IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Optimism
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:HOSTILITY IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Hostility
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:EXCITEMENT IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Excitement
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ANGER IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Anger
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:COUP IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Coup
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:VIOLENCE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Violence
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:FIGHT IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Fight
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:RESISTANCE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Resistance
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:CLASH IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Clash
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:REBELLION IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Rebellion
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:BATTLE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Battle
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:DRIVE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Drive
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:FIGHTING IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Fighting
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:RIOT IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Riot
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:REVOLT IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Revolt
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:WAR IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:War
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:CONFRONTATION IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Confrontation
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:VOLCANO IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Volcano
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ROW IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Row
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:REVOLUTION IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Revolution
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:STRUGGLE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Struggle
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:ALIEN IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Alien
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:IMMIGRANT IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Immigrant
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:PRISONER IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Prisoner
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:HOSTAGE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Hostage
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:INMATE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Inmate
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:PATROL IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Patrol
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:MILITIA IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Militia
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:SQUAD IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Squad
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:WARPLANE IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Warplane
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
+xxxx
+'''AutoMetaphor:PEACEKEEPER IS FIRE'''
+{{AutoMetaphor
+|Source schema=AutoSchema:Fire
+|Target schema=AutoSchema:Peacekeeper
+|Status=auto extracted
+|Entered by=SiteBot
+}}
+yyyy
